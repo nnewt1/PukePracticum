@@ -1,4 +1,4 @@
 # PukePracticum
-3 Puke Projects with different implementations of Autotune.
+3 custom Puke nodes.
 
-To use these projects and build off of them on your local device, you can just copy the entire folder (one of the three in root) to your location where you keep other Puke projects. It should be able to run no problem with all files. Custom node code can be found in the custom nodes folder of each project, see the header files to learn about the implementation details.
+To use these nodes and build off of them on your local device, you can just copy the entire file into your custom nodes folder into a local Puke project. These nodes were created for and used in 3 different Autotune implementations in a HU 3910 Pracitcum in Music Technology.
